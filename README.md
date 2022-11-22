@@ -34,6 +34,10 @@ pkg install python
 
 pkg install git
 
+pip install bs4
+
+pip2 install bs4
+
 git clone https://github.com/Rihan444/RIHAN-CL2
 
 cd RIHAN-CL2
